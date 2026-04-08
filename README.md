@@ -19,22 +19,18 @@ This is a command-line interface (CLI) application that allows users to manage t
    ```bash
    cd Smart-cli-todo-app
    ```
-3. Install any dependencies (if applicable):
-   ```bash
-   npm install
-   ```
 
 ## Usage Guide
 After installing the application, run it using the command:
 ```bash
-node app.js
+python main.py
 ```
 Follow the on-screen instructions to manage your todo list.
 
 ## Application Interface
 Below is a screenshot of the application interface:
 
-![Application Interface](path/to/screenshot.png)
+![Application Interface](screenshots/app.png)
 
 ---
 
