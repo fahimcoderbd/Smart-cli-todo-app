@@ -31,6 +31,10 @@ Follow the on-screen instructions to manage your todo list.
 Below is a screenshot of the application interface:
 
 ![Application Interface](screenshots/app.png)
+![Add a todo Interface](screenshots/add.png)
+![view todos Interface](screenshots/view.png)
+![Update a todo Interface](screenshots/update.png)
+![Delete a todo Interface](screenshots/delete.png)
 
 ---
 
